@@ -1,2 +1,3 @@
 # hello-world
 Test repository for debugging processes associated with Git source control.
+Once upon a time, in a galaxy far, far, away...
